@@ -49,14 +49,10 @@ const About = () => {
 
           <motion.div variants={itemVariants} className="glass-effect rounded-2xl p-8 md:p-12">
             <p className="text-gray-300 text-lg leading-relaxed mb-6">
-              I'm a passionate full-stack developer with a keen eye for design and a love for creating
-              seamless user experiences. With expertise in modern web technologies, I transform ideas
-              into elegant, functional solutions.
+              I’m a passionate Computer Engineering undergraduate at the University of Ruhuna with a strong interest in full-stack development, cloud computing, and DevOps. I enjoy building scalable, real-world applications and have hands-on industry experience from my internship at Commercial Bank PLC, where I worked with microservices, core Java, Spring Boot, React, and enterprise deployment environments.
             </p>
             <p className="text-gray-400 leading-relaxed mb-6">
-              My journey in web development started with a curiosity about how things work on the internet,
-              and it has evolved into a career where I get to build innovative products that make a difference.
-              I believe in writing clean, maintainable code and staying up-to-date with the latest industry trends.
+              Beyond technical skills, I bring strong leadership and teamwork experience through my roles as Vice President of the Sports Council and Vice Captain of the University Hockey team. I’m continuously learning new technologies, exploring modern architectures, and striving to create impactful software solutions that combine clean design, performance, and reliability.
             </p>
             <p className="text-gray-400 leading-relaxed">
               When I'm not coding, you can find me exploring new technologies, contributing to open-source
@@ -69,9 +65,9 @@ const About = () => {
             className="grid grid-cols-2 md:grid-cols-4 gap-6 mt-12"
           >
             {[
-              { number: '50+', label: 'Projects Completed' },
-              { number: '5+', label: 'Years Experience' },
-              { number: '30+', label: 'Happy Clients' },
+              { number: '7+', label: 'Projects Completed' },
+              { number: '1+', label: 'Years Experience' },
+              { number: '2+', label: 'Happy Clients' },
               { number: '100%', label: 'Commitment' },
             ].map((stat, index) => (
               <motion.div

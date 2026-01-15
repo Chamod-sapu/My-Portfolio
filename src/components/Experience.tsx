@@ -6,46 +6,46 @@ const Experience = () => {
   const isInView = useInView(ref, { once: true, margin: '-100px' })
 
   const experiences = [
+    // {
+    //   year: '2023 - Present',
+    //   title: 'Senior Full-Stack Developer',
+    //   company: 'Tech Innovators Inc.',
+    //   description: 'Leading development of enterprise web applications using React, Node.js, and AWS. Mentoring junior developers and implementing best practices.',
+    //   achievements: [
+    //     'Reduced application load time by 60% through optimization',
+    //     'Led migration to microservices architecture',
+    //     'Implemented CI/CD pipeline reducing deployment time by 75%'
+    //   ]
+    // },
+    // {
+    //   year: '2021 - 2023',
+    //   title: 'Full-Stack Developer',
+    //   company: 'Digital Solutions Co.',
+    //   description: 'Developed and maintained multiple client projects using modern web technologies. Collaborated with design team to create exceptional user experiences.',
+    //   achievements: [
+    //     'Built 15+ successful client projects',
+    //     'Improved code quality with comprehensive testing',
+    //     'Established component library used across projects'
+    //   ]
+    // },
+    // {
+    //   year: '2019 - 2021',
+    //   title: 'Frontend Developer',
+    //   company: 'Creative Web Studio',
+    //   description: 'Created responsive, interactive websites and web applications. Worked closely with designers to bring creative visions to life.',
+    //   achievements: [
+    //     'Delivered 20+ responsive websites',
+    //     'Introduced modern frontend tooling and workflows',
+    //     'Increased client satisfaction scores by 40%'
+    //   ]
+    // },
     {
-      year: '2023 - Present',
-      title: 'Senior Full-Stack Developer',
-      company: 'Tech Innovators Inc.',
-      description: 'Leading development of enterprise web applications using React, Node.js, and AWS. Mentoring junior developers and implementing best practices.',
+      year: '2025 - 2026',
+      title: 'Intern Software Engineer',
+      company: 'Commercial Bank PLC',
+      description: 'Gained hands-on experience in microservices architecture and core Java development, contributing to the design and improvement of backend systems. Worked on VA (Vulnerability Assessment) issue fixes to enhance system security and stability. Assisted in frontend development tasks, ensuring seamless user experiences. Additionally, gained exposure to the AEE deployment platform, supporting efficient application deployment and maintenance processes.',
       achievements: [
-        'Reduced application load time by 60% through optimization',
-        'Led migration to microservices architecture',
-        'Implemented CI/CD pipeline reducing deployment time by 75%'
-      ]
-    },
-    {
-      year: '2021 - 2023',
-      title: 'Full-Stack Developer',
-      company: 'Digital Solutions Co.',
-      description: 'Developed and maintained multiple client projects using modern web technologies. Collaborated with design team to create exceptional user experiences.',
-      achievements: [
-        'Built 15+ successful client projects',
-        'Improved code quality with comprehensive testing',
-        'Established component library used across projects'
-      ]
-    },
-    {
-      year: '2019 - 2021',
-      title: 'Frontend Developer',
-      company: 'Creative Web Studio',
-      description: 'Created responsive, interactive websites and web applications. Worked closely with designers to bring creative visions to life.',
-      achievements: [
-        'Delivered 20+ responsive websites',
-        'Introduced modern frontend tooling and workflows',
-        'Increased client satisfaction scores by 40%'
-      ]
-    },
-    {
-      year: '2018 - 2019',
-      title: 'Junior Developer',
-      company: 'StartUp Labs',
-      description: 'Started career developing features for startup products. Learned modern development practices and agile methodology.',
-      achievements: [
-        'Contributed to 5 product launches',
+        'Contributed to 2 product launches',
         'Developed reusable UI components',
         'Participated in daily standups and sprint planning'
       ]

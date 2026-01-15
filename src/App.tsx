@@ -42,7 +42,7 @@ function App() {
         <Contact />
       </main>
       <footer className="py-8 text-center text-gray-500 border-t border-gray-800">
-        <p>&copy; {new Date().getFullYear()} My Portfolio. All rights reserved.</p>
+        <p>&copy; {new Date().getFullYear()} Chamod Illangasinghe. All rights reserved.</p>
       </footer>
     </div>
   )

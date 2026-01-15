@@ -23,60 +23,60 @@ const Projects = () => {
       title: 'E-Commerce Platform',
       description: 'Full-featured online store with payment integration',
       longDescription: 'A comprehensive e-commerce solution built with React, Node.js, and Stripe. Features include user authentication, product management, shopping cart, and secure checkout process.',
-      tags: ['React', 'Node.js', 'MongoDB', 'Stripe'],
+      tags: ['React', 'Node.js', 'MongoDB', 'Stripe', 'ElectronJS'],
       image: 'https://images.pexels.com/photos/3184292/pexels-photo-3184292.jpeg?auto=compress&cs=tinysrgb&w=800',
       demoUrl: '#',
-      githubUrl: '#'
+      githubUrl: 'https://github.com/Chamod-sapu/Sumesh-Store'
     },
     {
       id: 2,
-      title: 'Task Management App',
+      title: 'Sentiment-Analysis-on-Social-Media',
       description: 'Collaborative project management tool',
       longDescription: 'A real-time task management application with team collaboration features. Built with React, TypeScript, and Firebase for real-time updates and cloud storage.',
-      tags: ['React', 'TypeScript', 'Firebase', 'Tailwind'],
+      tags: ['Python', 'Jupiter Notebook', 'Colab', 'NLP', 'Data Visualization'],
       image: 'https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg?auto=compress&cs=tinysrgb&w=800',
       demoUrl: '#',
-      githubUrl: '#'
+      githubUrl: 'https://github.com/Chamod-sapu/Sentiment-Analysis-on-Social-Media'
     },
     {
       id: 3,
-      title: 'Social Media Dashboard',
+      title: 'Warehouse-Management-System-DSA-System',
       description: 'Analytics platform for social media metrics',
       longDescription: 'A comprehensive dashboard for tracking social media performance across multiple platforms. Features data visualization, automated reporting, and trend analysis.',
-      tags: ['Next.js', 'Chart.js', 'PostgreSQL', 'API Integration'],
+      tags: ['C', 'C++', 'Data Structures', 'Algorithms'],
       image: 'https://images.pexels.com/photos/265087/pexels-photo-265087.jpeg?auto=compress&cs=tinysrgb&w=800',
       demoUrl: '#',
-      githubUrl: '#'
+      githubUrl: 'https://github.com/Chamod-sapu/Warehouse-Management-System-DSA-System'
     },
     {
       id: 4,
-      title: 'Fitness Tracking App',
+      title: 'Ground-Booking-System',
       description: 'Personal health and workout tracking application',
       longDescription: 'A mobile-first fitness application that helps users track workouts, nutrition, and progress. Includes workout plans, progress charts, and achievement system.',
       tags: ['React Native', 'Redux', 'Node.js', 'MongoDB'],
       image: 'https://images.pexels.com/photos/4162449/pexels-photo-4162449.jpeg?auto=compress&cs=tinysrgb&w=800',
       demoUrl: '#',
-      githubUrl: '#'
+      githubUrl: 'https://github.com/Chamod-sapu/Ground-Booking-System'
     },
     {
       id: 5,
-      title: 'Weather Forecast App',
+      title: 'Automated AI Driven HR Management',
       description: 'Real-time weather information and forecasts',
       longDescription: 'A beautiful weather application providing accurate forecasts, radar maps, and weather alerts. Features location-based recommendations and historical data.',
-      tags: ['React', 'API Integration', 'Geolocation', 'Charts'],
+      tags: ['React', 'API Integration', 'Node', 'MongoDB', 'Git'],
       image: 'https://images.pexels.com/photos/209831/pexels-photo-209831.jpeg?auto=compress&cs=tinysrgb&w=800',
       demoUrl: '#',
-      githubUrl: '#'
+      githubUrl: 'https://github.com/Tiran-Sarith/HRManagement_Frontend'
     },
     {
       id: 6,
-      title: 'Portfolio CMS',
-      description: 'Content management system for portfolios',
+      title: 'Crystal-Sand',
+      description: 'Financial management system for Hotel and Accommodation Websites',
       longDescription: 'A flexible CMS designed specifically for creative professionals to showcase their work. Features drag-and-drop interface, custom themes, and SEO optimization.',
       tags: ['Next.js', 'Prisma', 'PostgreSQL', 'AWS S3'],
       image: 'https://images.pexels.com/photos/196644/pexels-photo-196644.jpeg?auto=compress&cs=tinysrgb&w=800',
-      demoUrl: '#',
-      githubUrl: '#'
+      demoUrl: 'https://crystal-sand-jet.vercel.app/',
+      githubUrl: 'https://github.com/Chamod-sapu/Crystal-Sand'
     },
   ]
 

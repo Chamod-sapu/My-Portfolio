@@ -44,7 +44,7 @@ const Hero = () => {
             className="text-5xl md:text-7xl font-bold mb-6"
           >
             Hi, I'm{' '}
-            <span className="text-gradient">Your Name</span>
+            <span className="text-gradient">Chamod Illangasinghe</span>
           </motion.h1>
 
           <motion.p
@@ -53,7 +53,7 @@ const Hero = () => {
             transition={{ duration: 0.6, delay: 0.4 }}
             className="text-xl md:text-2xl text-gray-400 mb-8 max-w-2xl mx-auto"
           >
-            Full-Stack Developer & Creative Problem Solver
+            Software Engineer & Creative Problem Solver
           </motion.p>
 
           <motion.p
